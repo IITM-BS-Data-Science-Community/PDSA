@@ -1,4 +1,4 @@
 # PDSA
-IITM - DBMS Course Repository
+IITM - PDSA Course Repository
 <br>
 Creator - Ashish Khattri
